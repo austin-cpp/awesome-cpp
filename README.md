@@ -57,7 +57,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 - [Contributing](#contributing)
 
 ## Standard Libraries
-*C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional, etc.*
+*C++ Standard Library - including STL Containers, STL Algorithm, STL Functional, etc.*
 
 * [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 * [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
